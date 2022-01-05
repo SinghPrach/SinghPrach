@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Aerospace domain projects**
 
-- 👨‍💻 All of my projects are available at [https://www.researchgate.net/profile/Prachi-Singh-39](https://github.com/SinghPrach)
+- 👨‍💻 All of my projects are available at [my ResearchGate profile](https://www.researchgate.net/profile/Prachi-Singh-39)
 
 - 📝 I regularly write articles on [https://singhsearch.wordpress.com/](https://singhsearch.wordpress.com/)
 
