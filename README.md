@@ -1,7 +1,7 @@
 <h1 align="center">Namaste! 👋, My name is Prachi Singh</h1>
 <h3 align="center">An Aspiring Aerospace Engineer from India</h3>
 
-- 🔭 I’m currently working on **my 30 days challenge with python**
+- 🔭 I’m currently working on **my 30 days-challenge-with-python**
 
 - 🌱 I’m currently learning **Computational Fluid Dynamics**
 
