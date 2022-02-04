@@ -1,13 +1,13 @@
 <h1 align="center">Namaste!:pray:, My name is Prachi Singh</h1>
 <h3 align="center">An Aspiring Aerospace Engineer from India</h3>
 
-- 🔭 I’m currently working on **my 30 days-challenge-with-python**
+- 🔭 I’m currently working on **30 days-challenge-with-python**
 
 - 🌱 I’m currently learning **Computational Fluid Dynamics**
 
 - 👯 I’m looking to collaborate on **Aerospace domain projects**
 
-- 👨‍💻 All of my projects are available at [my ResearchGate profile](https://www.researchgate.net/profile/Prachi-Singh-39)
+- 👨‍💻 All of my projects are available at my [ResearchGate profile](https://www.researchgate.net/profile/Prachi-Singh-39)
 
 - 📝 I regularly write articles on [https://singhsearch.wordpress.com/](https://singhsearch.wordpress.com/)
 
