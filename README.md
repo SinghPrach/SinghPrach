@@ -1,7 +1,7 @@
 <h1 align="center">Namaste!:pray:, My name is Prachi Singh</h1>
 <h3 align="center">An Aspiring Aerospace Engineer from India</h3>
 
-- 🔭 I’m currently working on **my Bachelor's thesis (Aerodynamics+Numerical Computation)**.
+- 🔭 I’m currently working on my **Bachelor's thesis (Aerodynamics+Numerical Computation)**.
 
 - 🌱 I’m currently learning **Computational Fluid Dynamics**.
 
