@@ -1,17 +1,7 @@
 <h1 align="center">Namaste!:pray:, My name is Prachi Singh</h1>
-<h3 align="center">An Aspiring Aerospace Engineer from India</h3>
+<h3 align="center">Data Science Enthusiast from India</h3>
 
-- 🔭 I’m currently working on my **Bachelor's thesis (Aerodynamics+Numerical Computation)**.
-
-- 🌱 I’m currently learning **Computational Fluid Dynamics**.
-
-- 👯 I’m looking to collaborate on **Aerospace domain projects**.
-
-- 👨‍💻 All of my projects are available at my [ResearchGate profile](https://www.researchgate.net/profile/Prachi-Singh-39).
-
-- 📝 I regularly write articles on [https://singhsearch.wordpress.com/](https://singhsearch.wordpress.com/).
-
-- 💬 Ask me about **airplanes and spaceships**.
+- 🌱 I’m currently learning **Data and Analytics**.
 
 - 📫 How to reach me **prachi.singh.ind@outlook.com**.
 
