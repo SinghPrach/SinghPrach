@@ -1,7 +1,7 @@
 <h1 align="center">Namaste!:pray:, My name is Prachi Singh</h1>
-<h3 align="center">Data Science Enthusiast from India</h3>
+<h3 align="center">Data Engineer from India</h3>
 
-- 🌱 I am a Data Engineer and a Data Enthusiast from India**.
+- 🌱 I am a Data Engineer and a Data Science Enthusiast from India**.
 
 - 📫 How to reach me **prachi.singh.ind@outlook.com**.
 
