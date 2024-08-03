@@ -3,7 +3,7 @@
 
 - 🌱 I am a Data Engineer and a Data Science Enthusiast from India.
 
-- 📫 How to reach me **prachi.singh.ind@outlook.com**.
+- 📫 How to reach me **singh.indiap@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
