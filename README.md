@@ -7,8 +7,7 @@
 - Demonstrated ability in participating in discussions with the business stakeholders.
 - Self-teaching Data Science Enthusiast and looking forward to be a part of the next technological innovation.
 
-📫 How to reach me?
-**27.prachisingh@gmail.com** and **+916204607306**.
+
 
 <h2 align="left">About me:</h2>
 <p align="left">
